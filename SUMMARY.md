@@ -4,19 +4,11 @@
 
 ## The Basics
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Tech Stack](the-basics/tech-stack.md)
 
-## Publishing
+## Products
 
-* [Publishing your content](publishing/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
+* [PyLiquid](products/pyliquid.md)
 
 ## Next steps
 

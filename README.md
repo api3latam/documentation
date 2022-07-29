@@ -1,11 +1,13 @@
+---
+description: Overview of our team core values and products
+---
+
 # Get Started
 
-## Try it out
+## Who we are?
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+An independent team working on cool stuff related with Web3 technologies. Making the best out of API3 products, and exploring more crazy integrations to enhance existing descentralized ecosystems
 
+## Why we are doing it?
 
-
-## Moving on
-
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+We believe in the potential of decentralization, and how web3 will enable a new tech revolution with our current tools at hand. All that is missing is just to build the way to the future!
