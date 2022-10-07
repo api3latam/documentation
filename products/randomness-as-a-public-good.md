@@ -18,6 +18,10 @@ Try it out yourself
 
 ### Implementation
 
-The baseline of our tech stack is API3 QRNG Oracle, which you can read more about from the official documentation
+The basis of our technology stack is API3 QRNG Oracle, a new way of adding value to public domain assets.
+
+The first versions of possible combinations were eighty-four million possible combinations... thanks to QRNG the quantum possibilities are infinite.
 
 {% embed url="https://docs.api3.org/qrng/" %}
+
+For additional resources refer to our developer page: &#x20;
