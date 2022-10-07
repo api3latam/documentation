@@ -1,12 +1,10 @@
 ---
-description: PoC to utilize QRNG
+description: QRNG PoC
 ---
 
-# Quantum Choice
+# Randomness as a Public Good
 
-### Randomness as a Public Good
-
-_Quantum On Chain Randomness_
+### Philosophy
 
 > Public Good, refers to something that anyone can use! We are democratizing access to dAPIs trough fair use.
 
@@ -17,3 +15,9 @@ So, we are working towards an easy and publicly available access to true randomn
 {% embed url="https://www.quantumchoice.io/" %}
 Try it out yourself
 {% endembed %}
+
+### Implementation
+
+The baseline of our tech stack is API3 QRNG Oracle, which you can read more about from the official documentation
+
+{% embed url="https://docs.api3.org/qrng/" %}

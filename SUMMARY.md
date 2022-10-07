@@ -8,7 +8,7 @@
 
 ## Products
 
-* [Quantum Choice](products/quantum-choice.md)
+* [Randomness as a Public Good](products/randomness-as-a-public-good.md)
 * [PyLiquid](products/pyliquid.md)
 
 ## Next steps
