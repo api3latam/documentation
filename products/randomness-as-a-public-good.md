@@ -25,3 +25,9 @@ The first versions of possible combinations were eighty-four million possible co
 {% embed url="https://docs.api3.org/qrng/" %}
 
 For additional resources refer to our [developer page](https://api3-1.gitbook.io/developer-documentation/quantum-choice/overview).
+
+### Quantum Choice
+
+As many of us know, web 3 is based on decentralization and user freedom, that is why the Quantum Number Generator, developed by API3, focuses on offering users a REALLY random number generator.
+
+Understanding the endless opportunities that can arise from the simple fact of creating completely random numbers.
