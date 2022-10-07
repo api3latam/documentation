@@ -8,6 +8,7 @@
 
 ## Products
 
+* [Quantum Choice](products/quantum-choice.md)
 * [PyLiquid](products/pyliquid.md)
 
 ## Next steps
